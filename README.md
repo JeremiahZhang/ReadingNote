@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## World Labyrinth
 
-You can use the [editor on GitHub](https://github.com/JeremiahZhang/ReadingNote/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Economics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ ] [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023.Basic_Economics?from_search=true&from_srp=true&qid=ioYbmi5g3O&rank=2)
 
-### Markdown
+## Thinking
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [ ] [Beyond Feelings: A Guide to Critical Thinking ](https://www.goodreads.com/book/show/9757288-beyond-feelings)
+- [ ] [Critical Thinking ](https://www.goodreads.com/book/show/394397.Critical_Thinking?from_search=true&from_srp=true&qid=srZVOBHfRF&rank=11)
 
-```markdown
-Syntax highlighted code block
+## Log
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JeremiahZhang/ReadingNote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2020-05-26 init
+```
